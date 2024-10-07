@@ -1,0 +1,23 @@
+.experinece-div{
+    display: grid;
+    width:1200px;
+    grid-template-columns: 1000px 200px;
+    grid-template-rows: repeat(3,auto);
+    background-color: #292a2d;
+    /* border:1px solid grey; */
+    color: rgba(255,255,255,0.6);
+    padding: 10px 10px;
+}
+.experinece-div *{
+    line-height: 1.5;
+}
+.experinece-div h3{
+    padding: 5px 0px;
+}
+.work-experience-title{
+    font-size: 1.5rem;
+    padding: 20px 5px;
+}
+/* .work-experience{
+    background: rgb(2, 56, 58); 
+} */

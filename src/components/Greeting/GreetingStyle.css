@@ -1,0 +1,32 @@
+.name {
+    color:#ffffff;
+}
+.hi-five{
+    width:30px;
+    height: 30px;
+}
+.greeting {
+    padding: 30px 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.btn-home-div{
+    padding: 40px;
+}
+.btn{
+    border-radius: 10px;
+    text-transform: initial;
+}
+.greeting-header-div {
+    display: flex;
+    flex-direction: column;
+    margin-top:80px;
+    padding: 30px 15px;
+}
+.greeting-header-div h1{
+    line-height: 1.2;
+    font-size: 3rem;
+}
+.greeting-image{
+  align-items: center;
+}

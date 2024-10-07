@@ -1,0 +1,60 @@
+.edu-heading-div{
+    display: flex;
+}
+.edu-details{
+    padding: 150px 0px;
+}
+.edu-details *{
+padding: 10px;
+}
+.edu-card{
+    color: #ffffff;
+}
+.edu-description {
+    padding: 10px;
+}
+.edu-description li{
+    padding: 10px;
+}
+.edu-clg-details{
+    display: grid;
+    grid-template-columns: repeat(2,auto);
+    grid-template-rows: repeat(2,auto);
+    padding: 10px;
+    background: rgba(135, 206, 235, 0.8); 
+}
+.edu-clg-details li{
+    padding: 10px;
+}
+.edu-clg-logo-div{
+    display: flex;
+    height: 50vh;
+    width: 80px;
+    align-items: center;
+}
+.edu-svu-card-div, .edu-jntu-card-div{
+    display: flex;
+    justify-content: space-around;
+}
+.card-details-div {
+    border: 1px solid rgba(0, 119, 255, 0.842);
+    width:700px;
+    margin-bottom: 20px;
+}
+.visit-website-div {
+    text-align: center;
+    margin-left: 80%;
+    margin-right: 10px;
+    margin-bottom: 30px;
+    padding: 10px 20px;
+    background: rgba(135, 206, 235, 0.8); 
+    border-radius: 10px;
+
+}
+/* .edu-clg-details li{
+    padding: 10px;
+}
+.edu-clg-duration {
+    display: flex;
+    justify-content: space-around;
+} */

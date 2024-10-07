@@ -1,0 +1,55 @@
+.project-heading-div{
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    align-items: center;
+}
+.project-header-title{
+    font-size: 1rem;
+}
+.projects-div{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows :repeat(2,1fr);
+    margin-left: 40px;
+    column-gap: 10px;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.languages-list{
+    color: rgb(255,255,255,0.5);
+    font-size: 0.8rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap:10px;
+}
+
+.project {
+    background-color: #292a2d;
+    text-align: center;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    overflow-wrap: break-word;
+    padding: 20px;
+    height: 60%;
+    width: 90%;
+    box-sizing: border-box;
+
+}
+.project *{
+    padding: 5px;
+}
+.project > h3{
+    font-size: 1.2rem;
+    color:rgb(255,255,255);
+}
+.project > h5{
+    color:rgb(255,255,255,0.7);
+    line-height: 1.5;
+    font-size: 0.9rem;
+}

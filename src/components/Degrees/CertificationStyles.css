@@ -1,0 +1,8 @@
+.certifications-div{
+    display: flex;
+    justify-content: space-around;
+}
+.certifications-div ul{
+    border-radius: 5%;
+    border:2px solid rgb(2, 43, 58);
+}
