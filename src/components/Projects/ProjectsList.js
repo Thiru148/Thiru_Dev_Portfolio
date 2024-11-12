@@ -32,7 +32,7 @@ const ProjectsList = () => {
                     })}
                 </ul>
             </div>
-            <div className='project'>
+            {/* <div className='project'>
                 <h3>{projects.data[3].name}</h3>
                 <h5>{projects.data[3].description}</h5>
                 <ul className='languages-list'>
@@ -58,7 +58,7 @@ const ProjectsList = () => {
                         return <li key={item}>{item}</li>
                     })}
                 </ul>
-            </div>
+            </div> */}
         </div>
     </div>
   )

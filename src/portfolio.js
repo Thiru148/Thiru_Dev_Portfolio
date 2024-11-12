@@ -291,50 +291,27 @@ const settings = {
     data: [
       {
         id: "0",
-        name: "ReactNative Notes App",
-        url: "https://github.com/manojm97/NotesApp",
-        description: "A React Native Notes app with functionalities such as add, edit, delete and search notes with toggle to switch UI theme.",
-        languages: ["ReactNative","Android","iOS"],
+        name: "React Notes App",
+        url: "https://github.com/Thiru148/Keep-Notes-App",
+        description: "A React Native Notes app with functionalities such as add, edit, delete",
+        languages: ["HTML5","CSS3","Javascript","React","Netlify"],
       },
       {
         id: "1",
-        name: "React Match Scheduler - MERN",
-        url: "https://github.com/manojm97/React-Match-Scheduler",
+        name: "ToDo List App",
+        url: "https://github.com/Thiru148/Todo-List-App",
         description:
-          "MERN stack app which reads/adds new match details from/to mongodb using node backend and filters data based on query parameters.",
-        languages: [ "MongoDB","Express","React","NodeJS"],
+          "A Simple ToDo list app that allows users to add todoitems, delete and mark as completed as functionalities",
+          languages: ["HTML5","CSS3","Javascript","React","Netlify"],
       },
+      
       {
         id: "2",
-        name: "ReactNative NFT App",
-        url: "https://github.com/manojm97/ReactNative-NFT-App",
-        description:
-          "A modern NFT Marketplace app using React Native.",
-        languages: ["ReactNative","Android","iOS"],
-      },
-      {
-        id: "3",
-        name: "Memories App - MERN",
-        url: "https://github.com/harikanani/top-crypto-gainers",
-        description:
-          "This is a simple social media app that allows users to post interesting events that happened in their lives which uses React, Node.js, Express & MongoDB.",
-          languages: ["MongoDB","Express","React","NodeJS"],
-      },
-      {
-        id: "4",
-        name: "Moonwalk Elevators - Next.js",
-        url: "https://github.com/manojm97/Moonwalk-Elevators",
-        description:
-          "Responsive Corporate Website built using Next.js.",
-          languages: ["NextJS","React","HTML5","CSS3","Javascript"],
-      },
-      {
-        id: "5",
         name: "Thiru.Dev",
-        url: "https://github.com/manojm97/WebApp",
+        url: "https://github.com/Thiru148/Thiru_Dev_Portfolio",
         description:
-          "A Personal Portfolio Website that showcases my work and experience. It is hosted on Vercel.",
-          languages: ["HTML5","CSS3","Javascript","React","SCSS","Vercel"],
+          "A Personal Portfolio Website that showcases my work and experience. It is hosted on Netlify.",
+          languages: ["HTML5","CSS3","Javascript","React","SCSS","Netlify"],
         
       },
     ]
